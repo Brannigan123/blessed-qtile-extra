@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: qtile-b-widgets
+Version: 0.0.1
+Summary: Custom widgets for qtile wm
+Home-page: UNKNOWN
+Author: Brannigan Sakwah
+Author-email: <brannigansakwah@gmail.com>
+License: UNKNOWN
+Keywords: python,qtile,config,widget
+Platform: UNKNOWN
+
+Custom widgets for qtile wm
+
